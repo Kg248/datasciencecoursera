@@ -1,7 +1,7 @@
 {
     "id": "184C50D0",
-    "path": "D:/RStudio/HelloWorld/HelloWorld.md",
-    "project_path": "HelloWorld.md",
+    "path": "D:/RStudio/HelloWorld/datasciencecoursera.md",
+    "project_path": "datasciencecoursera.md",
     "type": "markdown",
     "hash": "974480659",
     "contents": "",
@@ -15,11 +15,11 @@
         "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594032470,
+    "lastKnownWriteTime": 1594033056,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594032470262,
+    "last_content_update": 1594033056567,
     "read_only": false,
     "read_only_alternatives": []
 }
